@@ -14,7 +14,11 @@ I hope you enjoy my application.
 
 Here is preview of the deployed application. 
 
+![image](https://user-images.githubusercontent.com/117330115/236799095-f1b13c7e-d763-4d9d-b909-c096ae50eaad.png)
 
 
 ## Links 
 
+https://drive.google.com/file/d/1cTSlKW4dGvYyId4xwzjwPbmm5JLBkZHG/view
+
+here is a link to the video 
